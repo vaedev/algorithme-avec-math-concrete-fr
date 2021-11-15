@@ -91,7 +91,7 @@ ___
 #### **_exemple_**:
 Pas simple? Regardons ensemble un cas d'étude:
 
-    "Quentin, un anthropologue qui se propose d'étudier la relation entre la taille et le poids d'individus appartenant à une même communauté vous demande de faire un programme pour faciliter son calcul. Vous allez devoir calculer..."
+"Quentin, un anthropologue qui se propose d'étudier la relation entre la taille et le poids d'individus appartenant à une même communauté vous demande de faire un programme pour faciliter son calcul. Vous allez devoir calculer..."
 
 ... En fait dans la vraie vie que ce soit en programmation ou en mathématiques on ne vous dit pas toujours ce qu'il faut faire, dommage ! C'est bien à l'école: les problèmes de mathématiques sont bien délimité, avec leurs paramètres et leurs détails accomodant. Mais comme je ne veux pas vous faire peur, disons qu'ici, on nous demande de calculer [une covariance !](https://fr.wikipedia.org/wiki/Covariance) 
 
@@ -209,7 +209,8 @@ Je vais exactement déployer les phases précédentes en JavaScript pour compare
   let getSum () => {
     // si je commence à taper for, on me met le pattern suivant:
         for (let index = 0; index < array.length; index++) {
-        // j'ai juste supprimé unn contenu automatique ici car je suis bête et discipliné quand j'opère: il y a un temps pour réfléchir et un temps pour agir mais jamais en même temps!
+        // j'ai juste supprimé unn contenu automatique ici car je suis bête et discipliné quand j'opère:
+        //  il y a un temps pour réfléchir et un temps pour agir mais jamais en même temps!
     }
     }
 
@@ -272,7 +273,8 @@ bon, ici ma formule est déjà marqué, je vais me servir de l'induction avec co
 
 ```javascript
 
-//tel sera mon point de départ si je veux optimiser ou rajouter des éléments dans ma formule soit en pseudo code,soit directement avec mon langage voir les deux: à vous de voir. et voila l'induction.
+//tel sera mon point de départ si je veux optimiser ou rajouter des éléments dans ma formule soit en pseudo code,
+// soit directement avec mon langage voir les deux: à vous de voir. et voila l'induction.
 
 // "calcul sigma en javascript si n≥0". ça c'est pour le fun vous n'êtes pas obligé de le maquer comme ça.
 
