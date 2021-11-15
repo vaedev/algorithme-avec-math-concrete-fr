@@ -110,6 +110,7 @@ C'est parti, étape par étape: deviner, essayer, induire.
 nous pouvons toujours copier coller, mais quand ça ne marche pas ou que personne n'a reflechi à votre problème... c'est la catastrophe.
 
 ![image info](./sigmaExemple.jpg)
+_image visible dans le dossier_
 
 Au début, j'observe. j'ai tout compte fait plusieurs paramètres à prendre en compte, sur la photo du 1er exemple c'est:
     
