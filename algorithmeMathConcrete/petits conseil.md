@@ -45,7 +45,8 @@ Dans la programmation, la récursivité c'est très souvent "rappeler la fonctio
 
 ```javascript
 // récursivité
-// indice: la fonction se rapelle elle même, très pratique comme dans ce cas ou on veut log notre let=>"exemple" possédant plein de sous-ensembles.
+// indice: la fonction se rapelle elle même.
+// très pratique comme dans ce cas ou on veut log notre let=>"exemple" possédant plein de sous-ensembles.
 
 let exemple = {
     name: "premier ensemble abregé €",
