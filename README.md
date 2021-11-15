@@ -135,7 +135,8 @@ Ce `1+2+3+4` est vraiment l'image même d'une boucle, alors je vais la poser dan
      ALGORITHME getSum
     DEBUT
         POUR cpt ALLANT DE 1 A 4 PAR PAS DE 1 FAIRE 
-        <!-- À ce stade, je ne sais pas quoi faire, ce que mettre dans la boucle. Mais allons-y par tâtonnement ! -->
+        <!-- À ce stade, je ne sais pas quoi faire, ce que mettre dans la boucle.
+        Mais allons-y par tâtonnement ! -->
     FIN
     _____
 je découvre cette [magnifique page](https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide/Expressions_and_Operators) qui me permet d'expliquer clairement ce que j'attends de ma boucle
